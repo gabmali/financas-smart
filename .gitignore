@@ -1,0 +1,9 @@
+node_modules
+dist
+*.local
+.auth-test-build/
+*.tsbuildinfo
+qa-*.png
+QA-REPORT.md
+.sites-runtime/
+SYNC-PLAN.md
