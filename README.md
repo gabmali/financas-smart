@@ -1,8 +1,8 @@
-# Finanças Smart
+# Orçaviva
 
 ## Acesse e teste o site
 
-**[Abrir Finanças Smart](https://financas-smart.gabriela-lima0717.chatgpt.site/)**
+**[Abrir Orçaviva](https://financas-smart.gabriela-lima0717.chatgpt.site/)**
 
 Clique em **Cadastre-se** para criar uma conta ou em **Entrar** para acessar uma conta já criada neste navegador. Não é necessário instalar o projeto para testar.
 
@@ -29,6 +29,9 @@ npm run preview
 O diretório `dist` pode ser servido por qualquer servidor estático. Configure fallback de navegação para `index.html` em hospedagens. Não abra `index.html` diretamente pelo protocolo file.
 
 ## Funcionalidades
+
+- Página inicial com Mapa de Possibilidades interativo, escolhas de objetivos, controles de entradas e gastos, abas de recursos, perguntas frequentes e calculadora de economia.
+- Identidade visual Orçaviva em azul, preto, verde e branco.
 
 - Painel com seleção de mês, saldo acumulado, receitas, despesas, economia e gráficos.
 - Transações com edição, exclusão e busca por descrição/categoria, tipo e mês.
