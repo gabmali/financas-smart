@@ -1,10 +1,10 @@
-# Orçaviva
+# SaldoTrilha
 
 ## Acesse e teste o site
 
-**[Abrir Orçaviva](https://financas-smart.gabriela-lima0717.chatgpt.site/)**
+**[Abrir SaldoTrilha](https://financas-smart.gabriela-lima0717.chatgpt.site/)**
 
-Clique em **Cadastre-se** para criar uma conta ou em **Entrar** para acessar uma conta já criada neste navegador. Não é necessário instalar o projeto para testar.
+Clique em **Criar meu espaço** para criar uma conta ou em **Entrar** para acessar uma conta já criada neste navegador. Não é necessário instalar o projeto para testar.
 
 As contas e os dados ficam salvos apenas no navegador utilizado, sem sincronização entre dispositivos. Para conhecer as funcionalidades, use dados fictícios e a demonstração opcional disponível no painel.
 
@@ -31,7 +31,7 @@ O diretório `dist` pode ser servido por qualquer servidor estático. Configure 
 ## Funcionalidades
 
 - Página inicial com Mapa de Possibilidades interativo, escolhas de objetivos, controles de entradas e gastos, abas de recursos, perguntas frequentes e calculadora de economia.
-- Identidade visual Orçaviva em azul, preto, verde e branco.
+- Identidade visual SaldoTrilha em azul, preto, verde e branco.
 
 - Painel com seleção de mês, saldo acumulado, receitas, despesas, economia e gráficos.
 - Transações com edição, exclusão e busca por descrição/categoria, tipo e mês.
